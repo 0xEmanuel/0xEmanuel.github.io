@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Snippets on Emanuel Durmaz</title>
-    <link>http://www.example.com/snippets/</link>
+    <link>https://emanuel.sh/snippets/</link>
     <description>Recent content in Snippets on Emanuel Durmaz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://www.example.com/snippets/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://emanuel.sh/snippets/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First snippet</title>
-      <link>http://www.example.com/snippets/first/</link>
+      <link>https://emanuel.sh/snippets/first/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/snippets/first/</guid>
+      <guid>https://emanuel.sh/snippets/first/</guid>
       <description>This content is in snippets/first/index.md
 pwd </description>
     </item>
     
     <item>
       <title>Second snippet</title>
-      <link>http://www.example.com/snippets/second/</link>
+      <link>https://emanuel.sh/snippets/second/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.example.com/snippets/second/</guid>
+      <guid>https://emanuel.sh/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
     </item>
