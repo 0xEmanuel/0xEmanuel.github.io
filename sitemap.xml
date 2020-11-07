@@ -163,6 +163,11 @@
   </url>
   
   <url>
+    <loc>http://www.example.com/imprint/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.example.com/about/</loc>
   </url>
   

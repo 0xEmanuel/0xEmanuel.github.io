@@ -109,6 +109,15 @@ Follow the following steps:
     </item>
     
     <item>
+      <title></title>
+      <link>http://www.example.com/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.example.com/imprint/</guid>
+      <description>Änderungsschneiderei im Hannibal Center Riemker Straße 13 44809 Bochum</description>
+    </item>
+    
+    <item>
       <title>About Emanuel</title>
       <link>http://www.example.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
