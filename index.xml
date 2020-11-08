@@ -114,11 +114,9 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emanuel.sh/about/</guid>
-      <description>Hugo is a static site engine written in Go. TEsts
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
-Education Some fun facts about Hugo:
- Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+      <description>I am Emanuel blabla
+Work experience   ab 07/2019: Cyber Security Analyst, Evonik Industries AG, Essen. Im Cyber Defense Team (CERT &amp;amp; SoC) als Cyber Security Analyst tätig.
+ Aktive Beteiligung an Maßnahmen (z. B. Incident Response, Teilnahme an Tref- fen/Kongressen) der nationalen und internationalen CERT Community Analyse und Auswertung von IT Security Incidents im Rahmen definierter Prozesse (ITIL/Incident Response) Forensische Auswertungen in Zusammenhang mit Malwareanalysen Proaktive Suche nach Schwachstellen innerhalb des Evonik-Netzes und Durchführung bzw.</description>
     </item>
     
     <item>
@@ -128,15 +126,6 @@ Education Some fun facts about Hugo:
       
       <guid>https://emanuel.sh/contact/</guid>
       <description>Follow me, @johndoe.</description>
-    </item>
-    
-    <item>
-      <title>Contato</title>
-      <link>https://emanuel.sh/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emanuel.sh/contact/</guid>
-      <description>Me siga em @joaoninguem.</description>
     </item>
     
     <item>
@@ -174,15 +163,6 @@ E-Mail: emanuel@durmaz.rocks</description>
     </item>
     
     <item>
-      <title>Projetos</title>
-      <link>https://emanuel.sh/projects/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emanuel.sh/projects/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
-    </item>
-    
-    <item>
       <title>References</title>
       <link>https://emanuel.sh/references/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -199,15 +179,6 @@ E-Mail: emanuel@durmaz.rocks</description>
       <guid>https://emanuel.sh/snippets/second/</guid>
       <description>This content is in snippets/second/index.md
 ls -la </description>
-    </item>
-    
-    <item>
-      <title>Sobre Hugo</title>
-      <link>https://emanuel.sh/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://emanuel.sh/about/</guid>
-      <description>Em construção&amp;hellip; Aguarde!</description>
     </item>
     
   </channel>
