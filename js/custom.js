@@ -19,3 +19,17 @@ text =
 about = document.getElementsByClassName("about")[0]
 ul = about.getElementsByTagName("ul")[0]
 ul.insertAdjacentHTML('afterend', '<p>'+text+'</p>');
+
+
+var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101286145);
+
+var script = document.createElement('script');
+script.onload = function () {
+    //do stuff with the script
+};
+script.src = "//static.getclicky.com/js";
+
+document.head.appendChild(script);
+
+//<script>var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101286145);</script>
+//<script async src="//static.getclicky.com/js"></script>
