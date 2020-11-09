@@ -115,8 +115,9 @@ Follow the following steps:
       
       <guid>https://emanuel.sh/about/</guid>
       <description>I am Emanuel blabla
-Work experience   ab 07/2019: Cyber Security Analyst, Evonik Industries AG, Essen. Im Cyber Defense Team (CERT &amp;amp; SoC) als Cyber Security Analyst tätig.
- Aktive Beteiligung an Maßnahmen (z. B. Incident Response, Teilnahme an Tref- fen/Kongressen) der nationalen und internationalen CERT Community Analyse und Auswertung von IT Security Incidents im Rahmen definierter Prozesse (ITIL/Incident Response) Forensische Auswertungen in Zusammenhang mit Malwareanalysen Proaktive Suche nach Schwachstellen innerhalb des Evonik-Netzes und Durchführung bzw.</description>
+  Work experience   ab 07/2019: Cyber Security Analyst, Evonik Industries AG, Essen. Im Cyber Defense Team (CERT &amp;amp; SoC) als Cyber Security Analyst tätig.
+  Aktive Beteiligung an Maßnahmen (z. B. Incident Response, Teilnahme an Tref- fen/Kongressen) der nationalen und internationalen CERT Community
+ Analyse und Auswertung von IT Security Incidents im Rahmen definierter Prozesse (ITIL/Incident Response) Forensische Auswertungen in Zusammenhang mit Malwareanalysen Proaktive Suche nach Schwachstellen innerhalb des Evonik-Netzes und Durchführung bzw.</description>
     </item>
     
     <item>
@@ -159,7 +160,10 @@ E-Mail: emanuel@durmaz.rocks</description>
       
       <guid>https://emanuel.sh/projects/</guid>
       <description>Projects within my Master thesis:
- WalletFileProtection Mini Filter Driver  C, Windows Kernel Driver   ClipboardHijacker PoC  C/C++, Windows API   ClipboardHijackingProtection  C/C++, Windows API   ClipboardMonitor  C/C++, Windows API   Sandbox automated malware execution and analysis system  Implements Man-in-the-Middle via proxy to capture and decrypt C&amp;amp;C communication of known malware variants Python, VirtualBox   Bitcoin Transaction Plot Tool  Python   User Interaction Simulation  C/C++, Windows API   FilesystemMonitor  Has basically the same functionality as Sysmon C, Windows Kernel Driver    Some Projects from my studies:</description>
+  WalletFileProtection Mini Filter Driver
+ C, Windows Kernel Driver      ClipboardHijacker PoC
+ C/C++, Windows API    ClipboardHijackingProtection
+ C/C++, Windows API      ClipboardMonitor  C/C++, Windows API   Sandbox automated malware execution and analysis system  Implements Man-in-the-Middle via proxy to capture and decrypt C&amp;amp;C communication of known malware variants   User Interaction Simulation  C/C++, Windows API Python, VirtualBox      Bitcoin Transaction Plot Tool  Python      FilesystemMonitor  Has basically the same functionality as Sysmon C, Windows Kernel Driver     Some Projects from my studies:</description>
     </item>
     
     <item>
