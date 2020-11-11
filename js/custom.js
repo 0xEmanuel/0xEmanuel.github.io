@@ -14,7 +14,7 @@ about.insertBefore(h, ul);
 //insert small text at the end of the about block
 text = 
 
-"Hello, my name is Emanuel and I have a Master's degree in IT Security from the RUB. I have practical experience in malware analysis, pentesting and software development."
+"Hello, I am Emanuel and I am always excited to meet new challenges in IT security. At the Ruhr University Bochum I finished my studies in IT Security/Information Technology with B.Sc. and M.Sc. Furthermore I bring practical experience in software development, reverse engineering and penetration testing from my professional and private life."
 
 about = document.getElementsByClassName("about")[0]
 ul = about.getElementsByTagName("ul")[0]
