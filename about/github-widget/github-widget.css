@@ -10,6 +10,18 @@
   margin: 0 1.5em 1em 0;
   border-top: 1px solid #ccc;
 }
+
+@media screen and (max-width: 700px) { 
+	.gw-repo {
+ 	 padding: 0.5em 0;
+	  margin: 0 1.5em 1em 0;
+ 	 border-top: 1px solid #ccc;
+ 	 font-size: 80%;
+	}
+}
+
+
+
 .gw-repo:nth-child(2n) {
   margin: 0 0 1em 1.5em;
 }
@@ -22,7 +34,7 @@
 	.gw-title{
  	 margin-bottom: 0.3em;
   	line-break: auto;
-  	font-size: 70%;
+  	font-size: 65%;
 	}
 }
 
@@ -43,9 +55,11 @@
 }
 .gw-watchers {
   background-position: 5px -2px;
+  visibility: hidden;
 }
 .gw-forks {
   background-position: 5px -52px;
+  visibility: hidden;
 }
 .gw-lang {
   font-size: 0.8em;
