@@ -15,6 +15,7 @@
 }
 .gw-title{
   margin-bottom: 0.3em;
+  line-break: auto;
 }
 .gw-name {
   font-weight: bold;
