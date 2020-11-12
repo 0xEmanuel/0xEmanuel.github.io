@@ -17,6 +17,15 @@
   margin-bottom: 0.3em;
   line-break: auto;
 }
+
+@media screen and (max-width: 700px) { 
+	.gw-title{
+ 	 margin-bottom: 0.3em;
+  	line-break: auto;
+  	font-size: 50%;
+	}
+}
+
 .gw-name {
   font-weight: bold;
 }
