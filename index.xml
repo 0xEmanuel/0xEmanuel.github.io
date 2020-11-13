@@ -109,15 +109,12 @@ Follow the following steps:
     </item>
     
     <item>
-      <title>About Emanuel</title>
+      <title>About</title>
       <link>https://emanuel.sh/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emanuel.sh/about/</guid>
-      <description>I am Emanuel blabla aaa
-  Work experience   ab 07/2019: Cyber Security Analyst, Evonik Industries AG, Essen. Im Cyber Defense Team (CERT &amp;amp; SoC) als Cyber Security Analyst tätig.
-  Aktive Beteiligung an Maßnahmen (z. B. Incident Response, Teilnahme an Tref- fen/Kongressen) der nationalen und internationalen CERT Community
- Analyse und Auswertung von IT Security Incidents im Rahmen definierter Prozesse (ITIL/Incident Response) Forensische Auswertungen in Zusammenhang mit Malwareanalysen Proaktive Suche nach Schwachstellen innerhalb des Evonik-Netzes und Durchführung bzw.</description>
+      <description>Emanuel Durmaz Plaintiff, defendant &amp;amp; witness    Experiences  2015present    Some Position Some Workplace (remote)    Lorem ipsum dolor sit amet, consectetur adipiscing elit Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin nec mi ante. Etiam odio eros, placerat eu metus id, gravida eleifend odio. Vestibulum dapibus pharetra odio, egestas ullamcorper ipsum congue ac. Maecenas viverra tortor eget convallis vestibulum. Donec pulvinar venenatis est, non sollicitudin metus laoreet sed.</description>
     </item>
     
     <item>
@@ -185,7 +182,7 @@ FlickrBulkDownloader
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://emanuel.sh/references/</guid>
-      <description> Award @ ITS|KRITIS - Berlin, 2017: &amp;ldquo;VeSiKi (IT security of critical infrastructures) for Students&amp;rdquo; Presentation @ ITS|KRITIS - Berlin, 2017: Security Analysis of Private Cloud Interfaces of oVirt (RedHat) Blog Entry @ G DATA CyberDefense - 2017: DGA classification and detection for automated malware analysis Vulnerability Disclosure (oVirt - RedHat) - 2016: CVE-2016-3113 ovirt-engine - Reflected XSS when submitting config file for VNC/SPICE Connection  </description>
+      <description> Award @ ITS|KRITIS Conference - Berlin, 2017: &amp;ldquo;VeSiKi (IT security of critical infrastructures) for Students&amp;rdquo; Presentation @ ITS|KRITIS Conference - Berlin, 2017: Security Analysis of Private Cloud Interfaces of oVirt (RedHat) Blog Entry @ G DATA CyberDefense - 2017: DGA classification and detection for automated malware analysis Vulnerability Disclosure (oVirt - RedHat) - 2016: CVE-2016-3113 ovirt-engine - Reflected XSS when submitting config file for VNC/SPICE Connection  </description>
     </item>
     
     <item>
