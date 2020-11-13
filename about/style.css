@@ -396,14 +396,13 @@ li{
 #sidebar h1{
   font-weight: 400;
   font-size: 11pt;
-  
 }
 
 .side-block{
   margin-top: 0.2in; 
   /*width: 50%;*/
   line-break: auto;
-  word-break: break-all;
+  /*word-break: break-all;*/
 }
 
 #contact {
