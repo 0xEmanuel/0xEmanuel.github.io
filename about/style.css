@@ -103,6 +103,12 @@ li{
   line-height: 1.2;
 }
 
+@media screen and (max-width: 700px) { 
+  #title{
+    margin-left: -0.4in;
+  }
+}
+
 #title h1{
   font-weight: 300;
   font-size: 18pt;
@@ -162,6 +168,10 @@ li{
 #main h2 > .fa-graduation-cap{
   left: calc(var(--main-blocks-title-icon-offset-left) - 2pt);
   top: 2pt;
+}
+
+.colorscheme-dark #main h2 > .fa-graduation-cap{
+  color: #dadada;
 }
 
 #main h2 > .fa-suitcase{
@@ -407,7 +417,15 @@ li{
  padding-bottom: 1.0%;
  border-style: dotted;
  border-color: black;
+ border-width: 2pt;
 }
+
+@media screen and (max-width: 800px) { 
+  #contact {
+  width: 80%;
+  }
+}
+
 
 .colorscheme-dark #contact{
  background-color: inherit;
@@ -419,13 +437,6 @@ li{
  font-size: 100%;
 }
 
-/*
-@media screen and (max-width: 700px) { 
-#contact h1{
-margin-top: -13%;
-}
-}
-*/
 
 #contact ul{
   margin-top: 0.05in;
