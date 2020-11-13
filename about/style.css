@@ -76,6 +76,10 @@ li{
   font-size: 8.5pt;
 }
 
+.colorscheme-dark #sidebar{
+  background-color: inherit;
+}
+
 
 @media screen and (max-width: 700px) { 
   #sidebar{
@@ -164,8 +168,20 @@ li{
   top: 1pt;
 }
 
+.colorscheme-dark #main h2 >  .fa-suitcase{
+  color: #dadada;
+}
+
 #main h2 > .fa-folder-open{
   top: 1.5pt;
+}
+
+.colorscheme-dark #main h2 > .fa-folder-open{
+  color: #dadada;
+}
+
+.colorscheme-dark #main h2{
+  color: #dadada;
 }
 
 /**** individual row blocks (date - decorator - details) ****/
@@ -258,6 +274,10 @@ li{
   color: #000;
 }
 
+.colorscheme-dark .details header{
+  color: #dadada;
+}
+
 .details h3{
   font-size: 9pt;
 }
@@ -294,6 +314,7 @@ li{
 @media screen and (max-width: 700px) { 
   .details .location{
     font-size: 6.5pt;
+    
   }
 }
 
@@ -311,6 +332,11 @@ li{
   font-style: normal;
   text-decoration: inherit;
   content: "\f041";
+  
+}
+
+.colorscheme-dark .details .location::before{
+  color: #dadada;
 }
 
 /***** fine-tunes on the lists... *****/
