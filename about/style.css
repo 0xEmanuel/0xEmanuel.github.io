@@ -265,6 +265,8 @@ li{
 /***** fine-tunes on the details block where the real juice is *****/
 
 .details{
+  margin-top: -12%;
+  margin-bottom: 5%;
   flex: 1 0 0;
   padding-left: var(--decorator-horizontal-margin);
   padding-top: calc(var(--row-blocks-padding-top) - 0.5pt) !important; /* not sure why but this is needed for better alignment */
@@ -296,14 +298,18 @@ li{
   padding: 0.05in 0 0.07in 0;
 }
 
+.details h3{
+  font-size: 11pt;
+}
+
 .details .place{
   float: left;
-  font-size: 7.5pt;
+  font-size: 8.5pt;
 }
 
 @media screen and (max-width: 700px) { 
   .details .place{
-    font-size: 6.5pt;
+    font-size: 7.0pt;
   }
 }
 
@@ -313,7 +319,7 @@ li{
 
 @media screen and (max-width: 700px) { 
   .details .location{
-    font-size: 6.5pt;
+    font-size: 7.0pt;
     
   }
 }
