@@ -281,8 +281,20 @@ li{
   font-size: 7.5pt;
 }
 
+@media screen and (max-width: 700px) { 
+  .details .place{
+    font-size: 6.5pt;
+  }
+}
+
 .details .location{
   float: right;
+}
+
+@media screen and (max-width: 700px) { 
+  .details .location{
+    font-size: 6.5pt;
+  }
 }
 
 .details div{
