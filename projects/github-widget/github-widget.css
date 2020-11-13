@@ -1,0 +1,70 @@
+.gw-repo-outer {
+  float: left;
+  width: 50%;
+}
+.gw-repo-outer:nth-child(2n + 1) {
+  clear: left;
+}
+.gw-repo {
+  padding: 0.5em 0;
+  margin: 0 1.5em 1em 0;
+  border-top: 1px solid #ccc;
+}
+
+@media screen and (max-width: 700px) { 
+	.gw-repo {
+ 	 padding: 0.5em 0;
+	  margin: 0 1.5em 1em 0;
+ 	 border-top: 1px solid #ccc;
+ 	 font-size: 80%;
+	}
+}
+
+
+
+.gw-repo:nth-child(2n) {
+  margin: 0 0 1em 1.5em;
+}
+.gw-title{
+  margin-bottom: 0.3em;
+  line-break: auto;
+}
+
+@media screen and (max-width: 700px) { 
+	.gw-title{
+ 	 margin-bottom: 0.3em;
+  	line-break: auto;
+  	font-size: 65%;
+	}
+}
+
+.gw-name {
+  font-weight: bold;
+}
+.gw-stats {
+  display: inline-block;
+  margin: 0;
+  float: right;
+}
+.gw-watchers, .gw-forks {
+  display: inline-block;
+  height: 21px;
+  padding: 0 5px 0 23px;
+  line-height: 21px;
+  background: transparent url('repostat.png') no-repeat 0 0;
+}
+.gw-watchers {
+  background-position: 5px -2px;
+  visibility: hidden;
+}
+.gw-forks {
+  background-position: 5px -52px;
+  visibility: hidden;
+}
+.gw-lang {
+  font-size: 0.8em;
+  color: #777;
+}
+.gw-clearer {
+  clear: left;
+}
