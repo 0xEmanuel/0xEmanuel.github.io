@@ -71,9 +71,9 @@ li{
   position: relative; /* for disclaimer */
   width: var(--sidebar-width);
   height: 100%;
-  padding: 0.6in var(--sidebar-horizontal-padding);
+  padding: 0.1% 3% 3% 3%; /*0.01in 0.3in var(--sidebar-horizontal-padding);*/
   background-color: #f2f2f2;
-  font-size: 8.5pt;
+  font-size: 9.5pt;
 }
 
 .colorscheme-dark #sidebar{
@@ -375,6 +375,7 @@ li{
 
 
 /* sidebar */
+/*INFO: MOVED CONTACT TO MAIN. ITS NOT ANYMORE IN THE SIDEBAR*/
 
 #sidebar h1{
   font-weight: 400;
@@ -389,8 +390,25 @@ li{
   word-break: break-all;
 }
 
+#contact {
+ margin-left: 10%;
+ margin-bottom: 5%;
+ margin-right: 42%;
+ background-color: #f2f2f2;
+ padding-left: 2.5%;
+ padding-bottom: 1.0%;
+ border-style: dotted;
+ border-color: black;
+}
+
+.colorscheme-dark #contact{
+ background-color: inherit;
+ border-color: #f2f2f2;
+}
+
+
 #contact h1{
-margin-top: -30%;
+ font-size: 100%;
 }
 
 @media screen and (max-width: 700px) { 
