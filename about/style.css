@@ -391,10 +391,12 @@ li{
 }
 
 #contact {
+ margin-top: 10%;
  margin-left: 10%;
  margin-bottom: 5%;
- margin-right: 42%;
+ margin-right: 30%;
  background-color: #f2f2f2;
+ padding-top: -10%;
  padding-left: 2.5%;
  padding-bottom: 1.0%;
  border-style: dotted;
@@ -411,12 +413,13 @@ li{
  font-size: 100%;
 }
 
+/*
 @media screen and (max-width: 700px) { 
 #contact h1{
 margin-top: -13%;
 }
 }
-
+*/
 
 #contact ul{
   margin-top: 0.05in;
