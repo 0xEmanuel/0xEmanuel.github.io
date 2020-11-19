@@ -12,9 +12,11 @@ about.insertBefore(h, ul);
 */
 
 //insert small text at the end of the about block
-text = 
+// "Hello, I am Emanuel and I am always excited to meet new challenges in IT security. At the Ruhr University Bochum I finished my studies in IT Security/Information Technology with B.Sc. and M.Sc. Furthermore I bring practical experience in software development, reverse engineering and penetration testing from my professional and private life. [SITE IS UNDER CONSTRUCTION! NOT FINISHED YET!]"
 
-"Hello, I am Emanuel and I am always excited to meet new challenges in IT security. At the Ruhr University Bochum I finished my studies in IT Security/Information Technology with B.Sc. and M.Sc. Furthermore I bring practical experience in software development, reverse engineering and penetration testing from my professional and private life. [SITE IS UNDER CONSTRUCTION! NOT FINISHED YET!]"
+
+
+text = "Hello, I am Emanuel and I am always excited to meet new challenges in IT security. I have practical experience in software development, reverse engineering and penetration testing from my professional and private life."
 
 about = document.getElementsByClassName("about")[0]
 ul = about.getElementsByTagName("ul")[0]
