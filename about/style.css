@@ -275,7 +275,7 @@ li{
 /***** fine-tunes on the details block where the real juice is *****/
 
 .details{
-  margin-top: -12%;
+  margin-top: -7%; /*This should be not too high otherwise the header divs of the next section will overlay the details div of the current section*/
   margin-bottom: 5%;
   flex: 1 0 0;
   padding-left: var(--decorator-horizontal-margin);
