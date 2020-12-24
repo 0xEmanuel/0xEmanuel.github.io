@@ -1,27 +1,3 @@
-//insert Another headline
-
-/*
-about = document.getElementsByClassName("about")[0]
-ul = about.getElementsByTagName("ul")[0]
-
-h = document.createElement('h2');
-h.textContent = 'sometext';
-
-about.insertBefore(h, ul);
-
-*/
-
-//insert small text at the end of the about block
-// "Hello, I am Emanuel and I am always excited to meet new challenges in IT security. At the Ruhr University Bochum I finished my studies in IT Security/Information Technology with B.Sc. and M.Sc. Furthermore I bring practical experience in software development, reverse engineering and penetration testing from my professional and private life. [SITE IS UNDER CONSTRUCTION! NOT FINISHED YET!]"
-
-
-
-text = "Hi, my name is Emanuel. I am an IT security expert and always looking forward to new challenges in this field. From my professional and personal life I bring practical experience in software development, reverse engineering and penetration testing. I like to travel, keep up with my friends and laugh at funny things."
-
-about = document.getElementsByClassName("about")[0]
-ul = about.getElementsByTagName("ul")[0]
-ul.insertAdjacentHTML('afterend', '<p>'+text+'</p>');
-
 
 //Clicky
 var clicky_site_ids = clicky_site_ids || []; clicky_site_ids.push(101286145);
