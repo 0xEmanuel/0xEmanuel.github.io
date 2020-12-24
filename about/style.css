@@ -325,7 +325,7 @@ body > main > div > section > article > header > h1{
 
 @media screen and (max-width: 700px) { 
   .details .place{
-    font-size: 7.0pt;
+    font-size: 6.0pt;
   }
 }
 
@@ -335,7 +335,7 @@ body > main > div > section > article > header > h1{
 
 @media screen and (max-width: 700px) { 
   .details .location{
-    font-size: 7.0pt;
+    font-size: 6.0pt;
     
   }
 }
