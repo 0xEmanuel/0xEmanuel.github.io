@@ -91,9 +91,15 @@ li{
 /* main */
 
 /** big title **/
-#title, h1, h2{
+#title, h2{ /* h1, */
   text-transform: uppercase;
 }
+
+/*
+body > main > div > section > article > header > h1{
+  text-transform: capitalize;
+}
+*/
 
 #title{
   margin-top: -1%;
